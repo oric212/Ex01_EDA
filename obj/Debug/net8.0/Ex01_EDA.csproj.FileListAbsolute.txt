@@ -1,0 +1,4 @@
+D:\Cs\EDA\Ex01\ConsoleApp1\obj\Debug\net8.0\Ex01_EDA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cs\EDA\Ex01\ConsoleApp1\obj\Debug\net8.0\Ex01_EDA.AssemblyInfoInputs.cache
+D:\Cs\EDA\Ex01\ConsoleApp1\obj\Debug\net8.0\Ex01_EDA.AssemblyInfo.cs
+D:\Cs\EDA\Ex01\ConsoleApp1\obj\Debug\net8.0\Ex01_EDA.csproj.CoreCompileInputs.cache
