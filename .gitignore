@@ -1,0 +1,17 @@
+# Build directories
+bin/
+obj/
+
+# VS Code / IDE settings
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
